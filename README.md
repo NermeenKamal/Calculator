@@ -32,9 +32,9 @@ To use the calculator, simply open the `index.html` file in a web browser. The c
 
 ## Screenshots
 
-![image](https://github.com/NermeenKamal/Calculator/assets/114883845/3e7763ff-a1db-4ee3-b792-3275de26c537)
+![Screenshot 2024-06-07 043644](https://github.com/NermeenKamal/Calculator/assets/114883845/bba3cf43-42d9-4fa9-843a-3c6f382fc867)
+![Screenshot 2024-06-07 043622](https://github.com/NermeenKamal/Calculator/assets/114883845/c69d2e80-a7e5-42dd-83aa-fac878aceddc)
 
-![image](https://github.com/NermeenKamal/Calculator/assets/114883845/f7d5c7ac-b5bc-41bb-b70b-24916980c248)
 
 
 ## Contributing
