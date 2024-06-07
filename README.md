@@ -28,9 +28,8 @@ To use the calculator, simply open the `index.html` file in a web browser. The c
 
 
 ## Screenshots
-
-![Screenshot 2024-06-07 043644](https://github.com/NermeenKamal/Calculator/assets/114883845/bba3cf43-42d9-4fa9-843a-3c6f382fc867) ![Screenshot 2024-06-07 043622](https://github.com/NermeenKamal/Calculator/assets/114883845/c69d2e80-a7e5-42dd-83aa-fac878aceddc)
-
+<img src="https://github.com/NermeenKamal/Calculator/assets/114883845/bba3cf43-42d9-4fa9-843a-3c6f382fc867" width=350px>
+<img src="https://github.com/NermeenKamal/Calculator/assets/114883845/c69d2e80-a7e5-42dd-83aa-fac878aceddc" width=350px>
 
 
 ## Contributing
